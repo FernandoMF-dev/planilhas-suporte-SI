@@ -27,3 +27,17 @@ E como eu não sou um especialista em Excel, certamente eu não usei o método m
 Ainda assim, eu estou orgulhoso do que construi e tenho certeza de que essas planilhas podem ser muito úteis.<br>
 Eu consegui fazer atividades sem esforço com a ajuda delas. Era só colocar alguns dados que o resultado saí de forma automática.<br>
 Se você estiver estudando algumas das matérias/tópicos cobertos por elas, tenho certeza de que você será grato por essas planilhas.<br>
+
+# Usando as planilhas
+Bem, se você leu a parte que eu falei das cores dos campos, então você já deve imaginar o que é pra fazer.<br>
+Tudo o que você precisa fazer é inserir os valores no campos em amarelo;<br>
+Depois disso, os valores de saída seram calculados automáticamente e apresentados nos campos azuis.<br>
+Apenas tenha certeza de preencher os campos corretamente, já que eu não implementei *"safe guards"* para verificar situações impossíveis.<br>
+Assim como em qualquer fórmula matemática, se você inserir os valores errados, o resultado sairá errado.
+
+Além disso, é bom que você tenha um conhecimento (mesmo que básico) do tópico da planilha que você for usar.<br>
+A idéia não é te ensinar do zero, apenas poupar tempo com calculos chatos e repetitivos que ninguém liga.<br>
+É bom que você pelo menos saiba o que cada valor significa, porque essas planilhas não vão fazer milagres.
+
+Eu também quis deixar de um jeito que facilite a **alteração** de cada planilha;<br>
+Tanto para facilitar minha própria vida, quanto para terceiros que queiram fazer alterações nelas.
